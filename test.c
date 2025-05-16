@@ -8,7 +8,8 @@ int b=20;
 int sum= a+b;
 
 printf ("sum = %d",sum);
-printf ("Subtraction = %d",a-b)
+printf ("\n");
+printf ("Subtraction = %d",a-b);
 return 0;
 }
 
